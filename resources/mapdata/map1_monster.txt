@@ -1,0 +1,7 @@
+3
+src/rpg/resources/images/sinhvat/dog.png
+8 8 1.5 1
+src/rpg/resources/images/sinhvat/dog2.png
+17 9 1.5 2
+src/rpg/resources/images/sinhvat/girl.png
+17 29 1.5 3

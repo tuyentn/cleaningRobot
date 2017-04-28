@@ -1,0 +1,7 @@
+3
+src/rpg/resources/images/sinhvat/boy.png
+8 9 2 1
+src/rpg/resources/images/monster/wolf.png
+16 20 2.5 2
+src/rpg/resources/images/monster/nhen.png
+27 18 2.5 3

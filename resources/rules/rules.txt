@@ -1,0 +1,91 @@
+﻿1:Sàn gỗ: chất lỏng ,các loại nước thông thường: Lau chùi bằng giẻ khô:508:5
+2:sàn gỗ:chất lỏng ,các loại nước thông thường :lau bằng cây lau nhà:501:1
+3:sàn gỗ:vết ố do nước đọng lâu ngày:Dùng tro bếp sau đó trà nhẹ bằng nước muối:518,56:6
+4:sàn gỗ:bùn đất:Dùng cây lau nhà:501:5
+5:sàn gỗ:bùn đất:dùng vải mềm ẩm:509:1
+6:sàn gỗ:bụi bẩn:hút bụi:504:5
+7:sàn gỗ:bụi bẩn:dùng cây lau nhà lau :501:4
+8:sàn gỗ:bụi bẩn:dùng giẻ lau nhà ẩm:509:1
+9:sàn gỗ:dầu mỡ:dùng bột mỳ rắc lên,sau đó làm sạch nền bằng giẻ lau nhà khô :505,508:1
+10:sàn gỗ:dầu mỡ:dùng giẻ lau nhà khô lau sạch:508:2
+11:sàn gỗ:vết bẩn do đồ uống,các loại sinh tố:Dùng giẻ ướt để lau:509:5
+12:sàn gỗ:vết bẩn do đồ uống ,các loại sinh tố:Dùng dầu hỏa ,sau đó lau bằng vải mềm:511,508:4
+13:sàn gỗ: Vết nấm mốc rêu xanh:Dùng nước vôi pha loãng:506:2
+14:sàn gỗ:vết nấm mốc rêu xanh: trà lên bề mặt :503:1
+15:sàn gỗ:vết cặn bám kẽ:dùng dầu ăn sau đó rau bằng vải mềm khô:507,508:1
+16:sàn gỗ:rác bụi tóc vải sơ:Hút vào hộp chứa :504:1
+17:sàn gỗ:các loại bột:Dùng khăn ẩm để hút:509:1
+18:sàn gỗ:các loại bụi:hút vào hộp chứa:504:1
+19:sàn gỗ:mồ hôi:dùng vải mềm thấm khô,sau đó khử mùi:508,519:2
+20:sàn gỗ:mồ hôi:lau bằng cây lau nhà,sau đó khử mùi:501,519:1
+21:sàn gỗ :vết chầy xước trên sàn:dùng gôm để tẩy:510:2
+22:sàn gỗ:vết chày xước trên sàn:trà bằng cây lau nhà:503:1
+23:sàn gỗ:vết bẩn bám kẽ ở góc nhà:dùng dầu hỏa đổ lên vết bẩn sau đó lau khô bằng vải mềm:511,508:1
+24:sàn gỗ:keo 502:sử dụng chất tẩy keo chuyên dụng sau đó lau khô sàn nhà bằng vải mềm khô:520,518:1
+25:sàn gỗ:vật nhỏ li ti như mạt,sỏi đá,...:dùng cây lau sàn:501:2
+26:sàn gỗ:vật nhỏ li ti như mạt ,sỏi,đá,...:hút vào hộp chứa bủi bẩn:504:1
+27: sàn gỗ: chất dính như kẹo cao su,băng dính:dùng giẻ nhẹ nhàng lau sạch tránh để vết bẩn lan rộng:508:1
+28:sàn gỗ:vết rỉ sét ,ố mờ:Sử dụng chanh tươi ,đánh bằng dầu hỏa sau đó dùng chất đánh bóng sàn:512,511,503:1
+29:sàn gỗ:lông động vật:hút vào hộp chứa bụi:504:1
+30:sàn gỗ:vi khuẩn ,bọ ve côn trùng:phát ra tia cực tím tiêu diệt:513:1
+31:sàn gạch đá hoa:chất lỏng các loại nước thông thường:dùng cây lau nhà:501:1
+32:sàn gạch đá hoa:chất lỏng các loại nước thông thường:dùng vải mềm để lau chùi:508:1
+33:sàn gạch đá hoa:vết ố do nước đọng lâu ngày:dùng tro bếp sau đó trà nhẹ bằng nước,đánh bóng nền bằng hóa chất:518,503,521:1
+34:sàn gạch đá hoa:bùn đất:dùng cây lau sàn sau đó làm khô sàn bằng khăn mềm khô:501,508:1
+35:sàn gạch đá hoa:bụi bẩn:hút vào ống hút bụi:504:1
+36:sàn gạch đá hoa: bụi bẩn: dùng cây lau nhà:501:3
+37:sàn gạch đá hoa:bụi bẩn: dùng giẻ lau nhà:508:2
+38:sàn gạch đá hoa:dầu mỡ:Dùng bột mỳ rắc lên sau đó lau sạch nền bằng cây lau nhà ẩm hoặc giẻ mềm ẩm:505:1
+39:sàn gạch đá hoa:vết bẩn đồ uống hoặc các loại vết bẩn sinh tố: dùng cây lau nhà ẩm sau đó dùng giẻ mềm thấm khô :501,509:1
+40:sàn gạch đá hoa:vết bẩn do nấm mốc rêu xanh: Tẩy trùng bằng nước vôi pha loãng sau đó lau khô nền bằng giẻ khô mềm:506,508:1
+41:sàn gạch đá hoa:vết bẩn bám kẽ ở góc tường:sử dụng oxy già tẩy sạch sau đó đánh bóng:514,521:1
+42:sàn gạch đá hoa:rác bẩn loại nhỏ,tóc ,vải sơ loại nhỏ,...:hút vào hộp hút bụi:504:1
+43:sàn gạch đá hoa:các loại bột mịn nghiền nhỏ:Dùng cây lau nhà ẩm để hút:501:2
+44:sàn gạch đá hoa:các loại bột mịn nghiền nhỏ: dùng giẻ ẩm để thấm:509:1
+45:sàn gạch đá hoa:các loại bột mịn nghiền nhỏ: robot hút vào ống chứa bụi:504:3
+46:sàn gạch đá hoa:mồ hôi:dùng vải mềm khô thấm sạch ,sau đó dùng hóa chất khử sạch mùi hôi:508,519:1
+47:sàn gạch đá hoa:vết trầy xướt trên sàn:dùng gôm để tẩy sau đó lau khô sàn bằng cây lau nhà hoặc giẻ khô mềm:510,508:1
+48:sàn gạch đá hoa:vết bẩn bám kẽ ở góc nhà:dùng soda để lau sau đó sử dụng cây lau nhà làm sạch nền nhà:506,501:1
+49:sàn gạch đá hoa:vết bẩn bám kẽ ở góc nhà: dùng nước chanh để tẩy sau đó làm sạch nền bằng cây lau nhà hoặc giẻ khô :512,501:2
+50:sàn gạch đá hoa:keo 502:dùng chất tẩy keo chuyện dụng sau đó lau sạch nền bằng cây lau nhà,dùng hóa chất làm sáng bóng nền nhà:520,501,521:1
+51:sàn gạch đá hoa:các vật cản loại nhỏ li ti như mạt,sỏi ,đá,....:hút vào hộp chứa:504:1
+52:sàn gạch đá hoa:các chất dính như keo,băng dính,hồ ,....:dùng giẻ mềm khô thấm sạch:508:1
+53:sàn gạch đá hoa:vết rỉ sét ố mờ:dùng bàn chải chà mạnh ,tránh hư hỏng nền nhà ,sau đó làm bóng sàn bằng hóa chất :503,521:1
+54:sàn gạch đá hoa:lông động vật:hút vào hộp chưa bụi bẩn:504:1
+55:sàn gạch đá hoa:nước tiểu động vật như chó mèo:dùng cây lau nhà thấm khô sau đó dùng hóa chất tẩy mùi cho nền nhà:501,519:1
+56:sàn gỗ:nước tiểu động vật như chó mèo:dùng cây lau nhà thấm khô sau đó dùng hóa chất tẩy mùi cho nền nhà:501,519:1
+57:sàn đá mài ,xi măng:Chất lỏng thông thường:dùng cây lau nhà để lau chùi:501:1
+58:sàn đá mài ,xi măng:vết ố do nước đọng lâu ngày:dùng tro bếp sau đó trà nhẹ bằng nước :518,503:1
+59:sàn đá mài ,xi măng:bùn đất:dùng cây lau sàn:501:1
+60:sàn đá mài ,xi măng:bụi bẩn:dùng cây lau nhà ,giẻ ướt thấm bụi,hoặc hút vào ống hút bụi của robot:501,509:1
+61:sàn đá mài ,xi măng:dầu mỡ:dùng bột mỳ hoặc bột sau rắc lên sau đó làm sạch nền nhà bằng cây lau nhà:505,501:1
+62:sàn đá mài ,xi măng:vết bẩn đồ uống như các loại sinh tố:dùng giẻ ướt hoặc cây lau nhà ẩm để lau:509:1
+63:sàn đá mài ,xi măng:vết nấm mốc rêu xanh: dùng nước vôi pha loãng sau đó làm sạch nền nhà bằng cây lau nhà:506:1
+64:sàn đá mài ,xi măng:vết căn bám kẽ:dùng nước muối hoặc soda trà mạnh sau đó làm sạch nền bằng cây lau nhà:506,501:1
+65:sàn đá mài ,xi măng:rác bụi bẩn tóc rối:hút vào ống chưa của robot:504:1
+66:sàn đá mài ,xi măng:các loại bột mịn:dùng giẻ ẩm hoặc cây lau nhà ẩm để hút:509:1
+67:sàn đá mài ,xi măng:mồ hôi:dùng cây lau nhà sau đó khử mùi bằng hóa chất:501,519:1
+68:sàn đá mài ,xi măng:vết rỉ sét ố mờ:dùng bàn chải chà mạnh:503,504:11
+69:sàn đá mài ,xi măng:lông đông vật:hút vào hộp hút bụi:504:1
+70:sàn đá mài ,xi măng:chất dính:dùng chất tẩy chuyên dụng:520,501:1
+71:sàn đá mài ,xi măng:nước tiểu động vật:dùng cây lau nhà sau đó tẩy mùi bằng hóa chất:501,519,521:1
+85:vật cản cố định không xê dịch được khi chắn hướng đi của robot như tường ,bàn ,tủ,...:tránh đường đổi hướng:522:1
+86:vật cản cố định xê dịch được như các đồ vật nhỏ nhẹ:di chuyển sang hướng khác ,khi lau dọn xong di chuyển đồ vật lại vị trí ban đầu:523,501,524:1
+87:vật cản cố định chắn tất cả các hướng di chuyển của robot:quay đầu lại tìm hướng di chuyển mới:525,526:1
+88:vật cản di động di chuyển nhanh qua hướng di chuyển của robot:chờ đợt cho vật di chuyển qua rồi tiếp tục lau chùi:527,501:1
+89:vật cản di chuyển chậm ,không xê dịch được:tìm kiếm 1 đường đi mới:526:1
+90:vật cản di chuyển chậm có thể xê dịch được:xê dịch vật cản sang hướng khác :523,501:1
+91:vật cảm di động bất ngờ không di chuyển nữa chắn đường đi của robot ,vật cản có thể xê dịch:xê dịch vật cản:523,501:1
+92:vật cảm di động chắn 3 hướng di chuyển của robot:lùi lại lựa chọn ,tìm kiếm hướng đi mới:525,526:1
+93:di chuyển vào vùng mất thăng bằng,hố sâu :di chuyển sang vùng khác:526:1
+94:di chuyển gặp cầu tháng:di chuyển tự lau:528:1
+95:3 hướng di chuyển tiếp theo bị chắn bới vậy cản cố định và vật cản di động nhanh: lựa chọn hướng đi tiếp theo bị cản trở bởi vật cảm di động:529:1
+96:3 hướng di chuyển tiếp theo bị cản bở vật cản cố định và vật cản di chuyển chậm:vùi lại lựa chọn tìm kiếm hướng đi mới:525,526:4
+110:Năng lương pin yếu :đưa ra cảnh báo cho robot ,quay lại đích sạc:530,531:1
+111:Hỏng khi đang làm việc do va chạm với vật cản:tự đông chuông báo,gọi trung tâm cứu hộ:530,532:1
+112:Độ hỏng hóc nằm trong giới hạn cho phép:tiếp tục làm việc:533:1
+113:Năng lượng pin yếu trên đường quay về gặp quá nhiều vật cản di động khiến pin tiêu hao quá nhiều: phát ra báo hiệu cuối cùng tự động sleep:530,534:1
+114:Sạc pin đầy :tự động ngắt điện tiếp tục làm việc:535:1
+115:Con vật quanh quẩn quanh vị trí robot:phát ra tín hiệu xua đuổi:536:1
+
+
